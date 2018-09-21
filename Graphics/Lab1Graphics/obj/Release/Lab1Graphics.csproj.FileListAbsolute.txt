@@ -1,0 +1,42 @@
+C:\Documents and Settings\Loner\Local Settings\Application Data\Temporary Projects\Lab1Graphics\bin\Release\Lab1Graphics.exe
+C:\Documents and Settings\Loner\Local Settings\Application Data\Temporary Projects\Lab1Graphics\bin\Release\Lab1Graphics.pdb
+C:\Documents and Settings\Loner\Local Settings\Application Data\Temporary Projects\Lab1Graphics\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Loner\Local Settings\Application Data\Temporary Projects\Lab1Graphics\obj\Release\Lab1Graphics.Form1.resources
+C:\Documents and Settings\Loner\Local Settings\Application Data\Temporary Projects\Lab1Graphics\obj\Release\Lab1Graphics.Properties.Resources.resources
+C:\Documents and Settings\Loner\Local Settings\Application Data\Temporary Projects\Lab1Graphics\obj\Release\Lab1Graphics.csproj.GenerateResource.Cache
+C:\Documents and Settings\Loner\Local Settings\Application Data\Temporary Projects\Lab1Graphics\obj\Release\Lab1Graphics.exe
+C:\Documents and Settings\Loner\Local Settings\Application Data\Temporary Projects\Lab1Graphics\obj\Release\Lab1Graphics.pdb
+C:\Documents and Settings\Loner\Мои документы\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.exe
+C:\Documents and Settings\Loner\Мои документы\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.pdb
+C:\Documents and Settings\Loner\Мои документы\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\bin\Release\Lab1Graphics.exe
+C:\Documents and Settings\Loner\Мои документы\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\bin\Release\Lab1Graphics.pdb
+C:\Documents and Settings\Loner\Мои документы\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Loner\Мои документы\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.Form1.resources
+C:\Documents and Settings\Loner\Мои документы\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.Properties.Resources.resources
+C:\Documents and Settings\Loner\Мои документы\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.csproj.GenerateResource.Cache
+D:\Глеб_Институт\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.exe
+D:\Глеб_Институт\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.pdb
+D:\Глеб_Институт\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\bin\Release\Lab1Graphics.exe
+D:\Глеб_Институт\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\bin\Release\Lab1Graphics.pdb
+D:\Глеб_Институт\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\ResolveAssemblyReference.cache
+D:\Глеб_Институт\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.Form1.resources
+D:\Глеб_Институт\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.Properties.Resources.resources
+D:\Глеб_Институт\Visual Studio 2008\Projects\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.csproj.GenerateResource.Cache
+D:\Глеб_Институт\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.exe
+D:\Глеб_Институт\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.pdb
+D:\Глеб_Институт\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\bin\Release\Lab1Graphics.exe
+D:\Глеб_Институт\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\bin\Release\Lab1Graphics.pdb
+D:\Глеб_Институт\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\ResolveAssemblyReference.cache
+D:\Глеб_Институт\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.Form1.resources
+D:\Глеб_Институт\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.Properties.Resources.resources
+D:\Глеб_Институт\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.csproj.GenerateResource.Cache
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.exe
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.pdb
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\bin\Release\Lab1Graphics.exe
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\bin\Release\Lab1Graphics.pdb
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\ResolveAssemblyReference.cache
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.Form1.resources
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.Properties.Resources.resources
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Release\Lab1Graphics.csproj.GenerateResource.Cache
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\obj\Release\Lab1Graphics.exe
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\obj\Release\Lab1Graphics.pdb

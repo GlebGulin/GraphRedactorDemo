@@ -1,0 +1,44 @@
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\bin\Debug\Lab1Graphics.exe
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\bin\Debug\Lab1Graphics.pdb
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Debug\ResolveAssemblyReference.cache
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.Form1.resources
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.Properties.Resources.resources
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.csproj.GenerateResource.Cache
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.exe
+C:\Глеб\Черновики и полуфабрикаты\Lab1Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.pdb
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\bin\Debug\Lab1Graphics.exe
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\bin\Debug\Lab1Graphics.pdb
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\obj\Debug\ResolveAssemblyReference.cache
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.Form1.resources
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.Properties.Resources.resources
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.csproj.GenerateResource.Cache
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.exe
+D:\Готовые проекты\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.pdb
+D:\Учеба Глеб\ASP.NET\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.exe
+D:\Учеба Глеб\ASP.NET\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.pdb
+D:\Учеба Глеб\ASP.NET\GraphREDACTOR\Lab1Graphics\bin\Debug\Lab1Graphics.exe
+D:\Учеба Глеб\ASP.NET\GraphREDACTOR\Lab1Graphics\bin\Debug\Lab1Graphics.pdb
+D:\Учеба Глеб\ASP.NET\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.csprojResolveAssemblyReference.cache
+D:\Учеба Глеб\ASP.NET\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.Form1.resources
+D:\Учеба Глеб\ASP.NET\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.Properties.Resources.resources
+D:\Учеба Глеб\ASP.NET\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.csproj.GenerateResource.Cache
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\bin\Debug\Lab1Graphics.exe.config
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\bin\Debug\Lab1Graphics.exe
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\bin\Debug\Lab1Graphics.pdb
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.csprojResolveAssemblyReference.cache
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.Form1.resources
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.Properties.Resources.resources
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.csproj.GenerateResource.cache
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.csproj.CoreCompileInputs.cache
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.exe
+D:\Project\WinForm\GraphREDACTOR\Lab1Graphics\obj\Debug\Lab1Graphics.pdb
+G:\Graphics\Lab1Graphics\bin\Debug\Lab1Graphics.exe.config
+G:\Graphics\Lab1Graphics\bin\Debug\Lab1Graphics.exe
+G:\Graphics\Lab1Graphics\bin\Debug\Lab1Graphics.pdb
+G:\Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.csprojResolveAssemblyReference.cache
+G:\Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.Form1.resources
+G:\Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.Properties.Resources.resources
+G:\Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.csproj.GenerateResource.cache
+G:\Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.csproj.CoreCompileInputs.cache
+G:\Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.exe
+G:\Graphics\Lab1Graphics\obj\Debug\Lab1Graphics.pdb
